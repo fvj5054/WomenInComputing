@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WomenInComputing
 //
-//  Created by Francisco Valencia on 5/5/25.
+//  Created by Francisco Valencia Jr. on 5/5/25.
 //
 
 import SwiftUI
