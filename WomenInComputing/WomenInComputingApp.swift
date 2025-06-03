@@ -2,7 +2,7 @@
 //  WomenInComputingApp.swift
 //  WomenInComputing
 //
-//  Created by Student1 on 5/7/25.
+//  Created by Francisco Valencia Jr. on 5/7/25.
 //
 
 import SwiftUI
